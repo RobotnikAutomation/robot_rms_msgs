@@ -1,0 +1,3 @@
+string current_state
+string last_state
+string description

@@ -1,0 +1,4 @@
+StateMachineStatus state_machine
+string current_poi
+string current_sequence
+string[] queue
