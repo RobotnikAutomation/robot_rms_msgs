@@ -4,5 +4,6 @@ string MODE_AUTO = auto
 StateMachineStatus state_machine
 string current_poi
 string mode
+string current_sequence_id
 string current_sequence
 string[] queue
